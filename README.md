@@ -3,7 +3,7 @@
 Entertaining creative front end application.
 Creative and challenging front end project.
 Extensive and great use of Class objects.
-Co use of libraries, just pure javascript.
+No use of libraries, just pure javascript.
 
 
 
