@@ -1,9 +1,9 @@
 
 # JS-Physics-Engine
-entertaining creative front end application.
-creative and challenging front end project.
+Entertaining creative front end application.
+Creative and challenging front end project.
 Extensive and great use of Class objects.
-no use of libraries, just pure javascript.
+Co use of libraries, just pure javascript.
 
 
 
