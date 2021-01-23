@@ -9,13 +9,13 @@
    - better performence over Matter.js
    - better flexibility with shape, lines, and colors/gradience of particles. <br/>
    
--Customizable laws of physics and structure including: <br/>
-   -gravity <br/>
-   -weight/density <br/>
-   -terminl velocity <br/>
-   -flexibility <br/>
-   -amount of external force <br/>
-   -momentum <br/>
+-Customizable laws of physics and structure including: 
+   - gravity <br/>
+   - weight/density <br/>
+   - terminl velocity <br/>
+   - flexibility <br/>
+   - amount of external force <br/>
+   - momentum <br/>
 
  Demo
  
