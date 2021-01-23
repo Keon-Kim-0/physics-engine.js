@@ -19,7 +19,8 @@
 
  Demo
  
-![PE demo](./demo.gif)
-
-Linkedin: 
-         [<img src="./Link.png">](https://www.linkedin.com/in/keon-w-kim/)<br>
+![PE demo](./demo.gif)<br/>
+<br/>
+<br/>
+## Connect with me! [<img src="./linkedin.png">](https://www.linkedin.com/in/keon-w-kim/)
+                  
