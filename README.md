@@ -1,26 +1,26 @@
 
-# Physics.js
+# Physics.js<br/>
 
+-Front end library for creative UI. <br/>
 
+-Combines the functionality of Matter.js, with particle.js.  <br/>
 
-
-
--Front end library for creative UI.
--Combines the functionality of Matter.js, with particle.js. 
--No use of libraries for better modularization and new algorithms with better time/space complexity.just pure javascript, and no dependencies.
+-No use of libraries for better modularization and new algorithms with better time/space complexity.just pure javascript, and no dependencies. <br/>
    - better performence over Matter.js
-   - better flexibility with shape, lines, and colors of particles
--Customizable laws of physics and structure including:
-   -gravity
-   -weight/density
-   -terminl velocity
-   -flexibility
-   -amount of external force
-   -momentum
+   - better flexibility with shape, lines, and colors/gradience of particles. <br/>
+   
+-Customizable laws of physics and structure including: <br/>
+   -gravity <br/>
+   -weight/density <br/>
+   -terminl velocity <br/>
+   -flexibility <br/>
+   -amount of external force <br/>
+   -momentum <br/>
 
  Demo
  
 ![PE demo](./demo.gif)
 
-Connect with me:
+Connect with me:<br/>
+
 <br>[Keon Kim](https://www.linkedin.com/in/keon-w-kim/)<br>
