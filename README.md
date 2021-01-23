@@ -1,9 +1,10 @@
 
-# JS-Physics-Engine
-Entertaining front end application.
-practicing extensive and etiquette use of Class objects.
-No use of libraries, just pure javascript, Canvas API and OOP.
-
+# Physics.js
+= front end library for creative UI.
+= Combines the functionality of Matter.js, with particle.js. 
+= No use of libraries, just pure javascript, and no dependencies.
+   - better performence over Matter.js
+   - better flexibility with shape, lines, and colors of particles.
 
 
  Demo
