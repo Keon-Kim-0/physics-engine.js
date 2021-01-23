@@ -22,5 +22,6 @@
 ![PE demo](./demo.gif)<br/>
 <br/>
 <br/>
+## NPM [<img src="./npm.png">](https://www.npmjs.com/package/physics-engine.js)
 ## Connect with me! [<img src="./linkedin.png">](https://www.linkedin.com/in/keon-w-kim/)
                   
