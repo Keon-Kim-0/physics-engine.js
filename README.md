@@ -21,5 +21,5 @@
  
 ![PE demo](./demo.gif)
 
-Connect with me! <br>
-[<img src="./Link.png">](https://www.linkedin.com/in/keon-w-kim/)<br>
+Linkedin: 
+         [<img src="./Link.png">](https://www.linkedin.com/in/keon-w-kim/)<br>
