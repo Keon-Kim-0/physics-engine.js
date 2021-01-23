@@ -21,6 +21,6 @@
  
 ![PE demo](./demo.gif)
 
-Connect with me:<br/>
+Connect with me! 
 
-<br>[Keon Kim](https://www.linkedin.com/in/keon-w-kim/)<br>
+<br>[My Linkedin](https://www.linkedin.com/in/keon-w-kim/)<br>
